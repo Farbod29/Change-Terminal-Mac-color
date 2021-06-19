@@ -25,3 +25,19 @@ To change the backgroungd open prefences on top left corner of your terminal.
 Hope you enjoy your colorful terminal ! 
   
  
+# Change-Terminal-VS-CODE 
+press 
+in Mac command + p 
+in win ctrl + p
+
+serch for setting.json
+
+copy:
+
+ "workbench.colorCustomizations": {
+    "terminal.foreground": "#3ad641",
+    "terminal.background": "#2a2a2a"
+  },
+  
+  <img src="https://user-images.githubusercontent.com/17232450/122657707-61a4ed00-d166-11eb-9a8f-3b1e4dc78217.png" width= "590px">
+
