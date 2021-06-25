@@ -19,14 +19,13 @@ add the codes inside the empty bash file
  
  ```
   sudo vi  ~/.zprofile
+  
 ```
  
 To change the backgroungd open prefences on top left corner of your terminal.
   
-
-  <img src="https://user-images.githubusercontent.com/17232450/122657406-995e6580-d163-11eb-9c89-eeea55618daa.png" width= "690px">
+<img src="https://user-images.githubusercontent.com/17232450/122657406-995e6580-d163-11eb-9c89-eeea55618daa.png" width= "690px">
   
-
 Hope you enjoy your colorful terminal !
 
 close and open terminal again, and if it doesnt work try this :
@@ -46,7 +45,6 @@ in win ctrl + p
 serch for setting.json
 
 copy:
-
  "workbench.colorCustomizations": {
     "terminal.foreground": "#3ad641",
     "terminal.background": "#2a2a2a"
