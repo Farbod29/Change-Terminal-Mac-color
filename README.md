@@ -22,7 +22,11 @@ To change the backgroungd open prefences on top left corner of your terminal.
 
   <img src="https://user-images.githubusercontent.com/17232450/122657406-995e6580-d163-11eb-9c89-eeea55618daa.png" width= "690px">
 
-Hope you enjoy your colorful terminal ! 
+Hope you enjoy your colorful terminal !
+
+close and open terminal again, and if it doesnt work try this :
+https://www.cyberciti.biz/faq/apple-mac-osx-terminal-color-ls-output-option/
+
   
  
 # Change-Terminal-VS-CODE 
