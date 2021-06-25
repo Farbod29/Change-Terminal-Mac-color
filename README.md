@@ -1,4 +1,4 @@
-# Change-Terminal-Mac-color
+# Change-Terminal-Mac-color and other appereance customisation A to Z
 ### => Change Terminal Mac color text and fond
 ### => install zhs for Terminal Mac color
 ### => install zhs for Terminal Mac color
