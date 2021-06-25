@@ -1,8 +1,10 @@
 # Change-Terminal-Mac-color
-### Change Terminal Mac color text and fond
-### install zhs for Terminal Mac color
-### install zhs for Terminal Mac color
-### add vi zhs plugins
+### => Change Terminal Mac color text and fond
+### => install zhs for Terminal Mac color
+### => install zhs for Terminal Mac color
+### => add autocompletion by adding vi zhs plugins
+.
+.
 
 to change the terminal color to differentiate the folders and files use mentioned commands:
 
