@@ -25,6 +25,12 @@ add the codes inside the empty bash file
 To change the backgroungd open prefences on top left corner of your terminal.
   
 <img src="https://user-images.githubusercontent.com/17232450/122657406-995e6580-d163-11eb-9c89-eeea55618daa.png" width= "690px">
+
+To change the font size: 
+
+
+![Screenshot 2021-06-25 at 11 23 43](https://user-images.githubusercontent.com/17232450/123406089-d5058f00-d5aa-11eb-9526-dc1474267ed1.png)
+
   
 Hope you enjoy your colorful terminal !
 
