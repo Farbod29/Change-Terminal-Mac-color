@@ -15,6 +15,14 @@ add the codes inside the empty bash file
  
  esc +  ":"
  then write "wq" to save the changes in the file. 
+ 
+ if you want to have diffrent color for the folders and file while doing "ls":
+ ```
+ alias ls='ls -G'
+ alias ll='ls -lG'
+ ```
+ 
+ then write "wq" to save the changes in the file. 
  if you have installed zhs: 
  
  ```
