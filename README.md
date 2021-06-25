@@ -27,8 +27,9 @@ Hope you enjoy your colorful terminal !
 close and open terminal again, and if it doesnt work try this :
 https://www.cyberciti.biz/faq/apple-mac-osx-terminal-color-ls-output-option/
 
-  
- 
+If you would like to have more fetures like auto compelete: 
+https://www.howtogeek.com/362409/what-is-zsh-and-why-should-you-use-it-instead-of-bash/
+
 # Change-Terminal-VS-CODE 
 press 
 in Mac command + p 
